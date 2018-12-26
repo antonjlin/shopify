@@ -1,0 +1,5 @@
+package Notifications
+
+class NotificationFormat(){
+
+}
